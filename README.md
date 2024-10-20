@@ -164,9 +164,11 @@ def pcos_chatbot():
 pcos_chatbot()
 
 # OUPUT
-![Screenshot 2024-10-20 073039](https://github.com/user-attachments/assets/5995a3aa-366a-47e2-900d-6b40ba49b1ca)
+![Screenshot 2024-10-20 092018](https://github.com/user-attachments/assets/5ab8d6ae-7799-4555-9983-eba528799dbb)
 
-![Screenshot 2024-10-20 073039](https://github.com/user-attachments/assets/0ba9f97e-27b2-489c-80e6-3166866b0cf9)
+
+![Screenshot 2024-10-20 092421](https://github.com/user-attachments/assets/674d9f4d-9c74-4985-bf72-78ab7e025f95)
+
 
 
 ![Screenshot 2024-10-20 073157](https://github.com/user-attachments/assets/e689deaa-deb7-4870-bbf9-c3878cbdae8b)

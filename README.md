@@ -174,8 +174,10 @@ pcos_chatbot()
 ![image](https://github.com/user-attachments/assets/38c4aae2-a500-4be0-86b0-b0d392639c7a)
 
 
-![image](https://github.com/user-attachments/assets/133d1eec-0a80-4bf9-b930-4d91faadb707)
+![image](https://github.com/user-attachments/assets/cc7b32d6-5b36-40fd-869d-bbd751b22563)
 
-![image](https://github.com/user-attachments/assets/cdb192a4-2508-41e8-b0da-d3664cbac86e)
+
+![image](https://github.com/user-attachments/assets/9b737e57-eb05-4d88-8353-45a11d00187b)
+
 
 
